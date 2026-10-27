@@ -1,0 +1,16 @@
+{
+  "name": "architecture-review",
+  "version": "0.1.0",
+  "description": "Hotspots from churn × complexity, five ranked refactoring candidates, no changes made.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/architecture-review",
+  "repository": "https://github.com/nvv-dev/architecture-review",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
